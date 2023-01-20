@@ -1,5 +1,12 @@
 # Schlumberger-SHAASTRA
 
+## Deploy and run:
+1) Go to ![server](https://github.com/FrozenWolf-Cyber/Schlumberger-SHAASTRA/tree/main/server)
+2) Start the server by executing 
+``` python app.py ```
+
+3) Go to ![website](https://github.com/FrozenWolf-Cyber/Schlumberger-SHAASTRA/tree/main/website) and open ![index.html](https://github.com/FrozenWolf-Cyber/Schlumberger-SHAASTRA/blob/main/website/index.html)
+
 ### Features:
 - Can give both abstract and extractive based summaries for each article and all articles combined.
 - Can give keyword representive of an article which can be used to search other related articles which can also be automated for nested crawling
